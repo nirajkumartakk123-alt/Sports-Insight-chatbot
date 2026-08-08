@@ -4,8 +4,8 @@ A domain-restricted AI chatbot built with **Mistral AI** and **Gradio** designed
 
 ## 📱 Interface Preview
 
-![Gradio UI Preview](chatbot.png)
-![Gradio UI Preview](chatbotn.png)
+![Gradio UI Preview](chatbot1.png)
+![Gradio UI Preview](chatbot2.png)
 
 
 ## ✨ Features
