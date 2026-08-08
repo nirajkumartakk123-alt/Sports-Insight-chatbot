@@ -4,7 +4,9 @@ A domain-restricted AI chatbot built with **Mistral AI** and **Gradio** designed
 
 ## 📱 Interface Preview
 
-![Gradio UI Preview](./assets/ui-preview.png)
+![Gradio UI Preview](chatbot.png)
+![Gradio UI Preview](chatbotn.png)
+
 
 ## ✨ Features
 * **Strict Domain Guardrails:** Rejects non-sports queries (math, general coding, etc.) cleanly.
