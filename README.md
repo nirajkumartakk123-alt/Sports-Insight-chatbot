@@ -1,12 +1,13 @@
 # 🏀 Sport Insight Chatbot
 
+[Open in Google Colab](https://colab.research.google.com/drive/1cJwB0Y9nEvgePSRdD9W-82bts8OINkyJ1?usp=sharing)
+
 A domain-restricted AI chatbot built with **Mistral AI** and **Gradio** designed to answer sports and athletics queries.
 
 ## 📱 Interface Preview
 
 ![Gradio UI Preview](chatbot1.png)
 ![Gradio UI Preview](chatbot2.png)
-
 
 ## ✨ Features
 * **Strict Domain Guardrails:** Rejects non-sports queries (math, general coding, etc.) cleanly.
